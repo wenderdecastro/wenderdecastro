@@ -1,11 +1,5 @@
 ### Olá!!! 👋
 
-- 🔭 I’m currently working as a freelancer graphic designer.
-- 🌱 I’m currently learning front-end development.
-- 📫 How to reach me: @_dendx on twitter or instagram!
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: i'm currently studying system development in SENAI.
-
 <center>
 	<table>
 		<tr>
