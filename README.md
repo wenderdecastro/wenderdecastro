@@ -1,6 +1,6 @@
 ### Olá!!! 👋
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+Wender;Sou+de+São+Paulo,+Brasil;Seja+Bem+Vindo+:%29)](https://git.io/typing-svg)
 
@@ -22,10 +22,10 @@
   
 ### Studying in this moment:
   
-![Csharp](https://img.shields.io/badge/-Csharp-0D1117?style=for-the-badge&logo=csharp&labelColor=0D1117)&nbsp;
-![Html](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Css](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Html](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Csharp](https://img.shields.io/badge/-Csharp-ffffff?style=for-the-badge&logo=csharp&logoColor=white&labelColor=178600&textColor=ffffff)&nbsp;
+![Html](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=white&labelColor=e34c26&textColor=ffffff)&nbsp;
+![Css](https://img.shields.io/badge/-CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=white&labelColor=563d7c&textColor=ffffff)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-ffffff?style=for-the-badge&logo=javascript&logoColor=0a0c10&labelColor=f1e05a&textColor=ffffff)&nbsp;
 
 </div>
 
@@ -43,7 +43,7 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/> -->
 
 
 
