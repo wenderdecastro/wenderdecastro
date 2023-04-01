@@ -15,7 +15,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenderdecastro&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
- <br></br>
+
  <div align="center">
   
 ### Studying in this moment:
@@ -27,12 +27,10 @@
 
 </div>
 
- <br></br>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wenderdecastro&bg_color=0a0c10&color=ebebeb&line=9b0f0f&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- <br></br>
- 
  
 <div align="center">
   
