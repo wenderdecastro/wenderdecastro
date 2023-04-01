@@ -11,7 +11,7 @@
 <br></br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wenderdecastro&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ff0000&text_color=ffffff&bg_color=0d1117" alt="Wender de Castro github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wenderdecastro&show_icons=true&count_private=true&hide_border=true&ring_color=00c647&title_color=ffffff&icon_color=00c647&rank-circle_color=00c647&text_color=ffffff&bg_color=0d1117" alt="Wender de Castro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenderdecastro&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
@@ -29,7 +29,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wenderdecastro&bg_color=0a0c10&color=ebebeb&line=9b0f0f&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wenderdecastro&bg_color=0a0c10&color=ffffff&line=009334&point=00c647&area=true&border_color=00c647&ring_color=00c647&area_color=004618&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
 <div align="center">
