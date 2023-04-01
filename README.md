@@ -1,5 +1,6 @@
 ### Olá!!! 👋
 
+<center>
 	<table>
 		<tr>
 			<td>
@@ -10,7 +11,7 @@
 			</td>
 		</tr>
 	</table>
-
+</center>
 
 ![snake gif](https://github.com/wenderdecastro/wenderdecastro/blob/output/github-contribution-grid-snake.svg)
 
