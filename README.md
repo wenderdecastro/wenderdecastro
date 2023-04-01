@@ -31,6 +31,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wenderdecastro&bg_color=0a0c10&color=ffffff&line=009334&point=00c647&area=true&border_color=00c647&ring_color=00c647&area_color=004618&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+<br><p align="centre"><b>Acessos ao perfil: </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{wenderdecastro}/count.svg" /></p> 
+<br>
+</div>
  
 <div align="center">
   
