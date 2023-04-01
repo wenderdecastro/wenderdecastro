@@ -42,7 +42,7 @@
 <div align="center">
  <br>
  
-![](https://komarev.com/ghpvc/?username=your-github-username&color=00c647)
+![](https://komarev.com/ghpvc/?username=wenderdecastro&color=00c647)
  
 </div>
 
