@@ -1,6 +1,6 @@
 ### Olá!!! 👋
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caroline+Barbosa;I'm+26+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -34,13 +34,15 @@
 <br>
 </div>
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wenderdecastro&bg_color=0a0c10&color=ebebeb&line=9b0f0f&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![snake gif](https://github.com/wenderdecastro/wenderdecastro/blob/output/github-contribution-grid-snake.svg)
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
+
+
 
 
 <!--
