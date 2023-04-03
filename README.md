@@ -1,12 +1,16 @@
 <hr>
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c647&height=120&section=header"/> -->
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=28&center=false&vCenter=true&width=1000&lines=Seja+Bem+Vindo+:%29;Meu+nome+é+Wender;Sou+de+São+Paulo,+Brasil)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=28&center=false&vCenter=true&width=600&lines=Seja+Bem+Vindo+:%29;Meu+nome+é+Wender;Sou+de+São+Paulo,+Brasil)](https://git.io/typing-svg)
 
  -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=36&pause=1000&color=00c647&background=08650000&center=true&vCenter=true&width=1280&lines=Hello!+:%29;Welcome!;My+name+is+Wender.;I'm+from+São+Paulo,+Brasil.)](https://git.io/typing-svg)
 
+
+
 <hr>
+
+<img src="https://i.ibb.co/CMbbKJY/gato-lascado.png" min-width="50px" max-width="100px" width="100px" align="right" alt="A silly cat">
 
 * Learning System Development at SENAI de Informática.
 
