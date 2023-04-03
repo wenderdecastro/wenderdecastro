@@ -1,14 +1,32 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c647&height=120&section=header"/>
+<hr>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c647&height=120&section=header"/> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=;Seja+Bem+Vindo+:%29;Meu+nome+é+Wender;Sou+de+São+Paulo,+Brasil)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=28&center=false&vCenter=true&width=1000&lines=Seja+Bem+Vindo+:%29;Meu+nome+é+Wender;Sou+de+São+Paulo,+Brasil)](https://git.io/typing-svg)
+
+ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=00c647&background=08650000&center=true&vCenter=true&width=1280&lines=Seja+Bem+Vindo+:%29;Meu+nome+é+Wender;Sou+de+São+Paulo,+Brasil)](https://git.io/typing-svg)
+
+<hr>
+
+* Learning System Development at SENAI de Informática.
+
+* TI apprendice since i was 14, modding minecraft with java and teaching programming logic on my school.
+
+* Design entusiast in general.
+
+
+<hr>
 
 <div align="center">
 <a href = "mailto:contatowenderdecastro@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wenderdecastro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+ 
+</div>
  
 
-<br></br>
+<!-- <br></br> -->
+<hr>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wenderdecastro&show_icons=true&count_private=true&hide_border=true&ring_color=00c647&title_color=ffffff&icon_color=00c647&rank-circle_color=00c647&text_color=ffffff&bg_color=0d1117" alt="Wender de Castro github stats" /> 
@@ -17,6 +35,8 @@
 
 
  <div align="center">
+ 
+ <hr>
   
 ### Studying in this moment:
   
@@ -27,11 +47,11 @@
 
 </div>
 
+<hr>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wenderdecastro&bg_color=101319&color=ffffff&line=009334&point=00c647&area=true&border_color=00c647&ring_color=00c647&area_color=004618&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wenderdecastro&bg_color=0a0c10&color=ffffff&line=009334&point=00c647&area=true&border_color=00c647&ring_color=00c647&area_color=004618&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+<hr>
  
 <div align="center">
   
@@ -39,16 +59,19 @@
   
 </div>
 
-<div align="center">
- <br>
+<hr>
+
+<!-- <br> -->
  
+<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=wenderdecastro&color=00c647)
  
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c647&height=120&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c647&height=120&section=footer"/> -->
 
-
+<hr>
 
 
 <!--
