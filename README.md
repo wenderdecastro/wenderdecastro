@@ -12,11 +12,11 @@
 
 <img src="https://i.ibb.co/CMbbKJY/gato-lascado.png" min-width="50px" max-width="100px" width="100px" align="right" alt="A silly cat">
 
-* Learning System Development at SENAI de Informática.
+* 📖 Learning System Development at SENAI de Informática.
 
-* TI apprendice since i was 11, modding minecraft with java and teaching programming logic on my school.
+* 👨🏾‍🎓 TI apprendice since i was 11, modding minecraft with java and teaching programming logic on my school.
 
-* Design entusiast in general.
+* ✍🏾 Design entusiast in general.
 
 
 <hr>
