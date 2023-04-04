@@ -14,7 +14,7 @@
 
 * 📖 Learning System Development at SENAI de Informática.
 
-* 👨🏾‍🎓 TI apprendice since i was 11, modding minecraft with java and teaching programming logic on my school.
+* 👨🏾‍🎓 IT apprendice since i was 11, modding minecraft with java and teaching programming logic on my school.
 
 * ✍🏾 Design entusiast in general.
 
