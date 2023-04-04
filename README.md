@@ -5,7 +5,7 @@
 
  -->
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=36&pause=1000&color=00c647&background=08650000&center=true&vCenter=true&width=1280&lines=Hello!+:%29;Welcome!;My+name+is+Wender.;I'm+from+São+Paulo,+Brasil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=48&pause=1000&color=00c647&background=08650000&center=true&vCenter=true&width=1280&lines=Hello!+:%29;Welcome!;My+name+is+Wender.;I'm+from+São+Paulo,+Brasil.)](https://git.io/typing-svg)
 
 
 
