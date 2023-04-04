@@ -17,7 +17,7 @@
 
 * 👨🏾‍🎓 IT apprendice since i was 11, modding minecraft with java and teaching programming logic on my school.
 
-* ✍🏾 Artist, VFX and Design enthusiast in general.
+* ✍🏾 Artist, VFX and Design enthusiast in general (UI/UX included!).
 
 
 <hr>
