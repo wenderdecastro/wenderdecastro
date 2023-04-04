@@ -42,15 +42,29 @@
  
  <hr>
   
+### Skills
+ 
+![Figma](https://img.shields.io/badge/-Figma-ffffff?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117&textColor=ffffff)&nbsp;
+![Html](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=white&labelColor=e34c26&textColor=ffffff)&nbsp;
+![Css](https://img.shields.io/badge/-CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=white&labelColor=563d7c&textColor=ffffff)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-ffffff?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=001834&textColor=ffffff)&nbsp;
+![After effects](https://img.shields.io/badge/-AfterEffects-ffffff?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=00005b&textColor=ffffff)&nbsp;
+
 ### Studying in this moment:
   
 ![Csharp](https://img.shields.io/badge/-Csharp-ffffff?style=for-the-badge&logo=csharp&logoColor=white&labelColor=178600&textColor=ffffff)&nbsp;
-![Html](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=white&labelColor=e34c26&textColor=ffffff)&nbsp;
-![Css](https://img.shields.io/badge/-CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=white&labelColor=563d7c&textColor=ffffff)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-ffffff?style=for-the-badge&logo=javascript&logoColor=0a0c10&labelColor=f1e05a&textColor=ffffff)&nbsp;
-
+![Java](https://img.shields.io/badge/-Java-ffffff?style=for-the-badge&logo=oracle&logoColor=0a0c10&labelColor=ec2025&textColor=ffffff)&nbsp;
+ 
+ 
+### Tools
+ ![VScode](https://img.shields.io/badge/-VScode-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff&labelColor=3c99d4&textColor=ffffff)&nbsp;
+ ![MSoffice](https://img.shields.io/badge/-Office-ffffff?style=for-the-badge&logo=microsoftoffice&logoColor=ffffff&labelColor=ec2025&textColor=ffffff)&nbsp;
+ ![Unity](https://img.shields.io/badge/-Unity-ffffff?style=for-the-badge&logo=Unity&logoColor=ffffff&labelColor=0d1117&textColor=ffffff)&nbsp;
+ ![Git](https://img.shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=F05033&textColor=ffffff)&nbsp;
+ 
 </div>
-
+F05033
 <hr>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wenderdecastro&bg_color=101319&color=ffffff&line=009334&point=00c647&area=true&border_color=00c647&ring_color=00c647&area_color=004618&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
