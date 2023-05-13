@@ -50,6 +50,7 @@
 
 ![Html](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=white&labelColor=e34c26&textColor=ffffff)&nbsp;
 ![Css](https://img.shields.io/badge/-CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=white&labelColor=563d7c&textColor=ffffff)&nbsp;
+![Csharp](https://img.shields.io/badge/-Csharp-ffffff?style=for-the-badge&logo=csharp&logoColor=white&labelColor=178600&textColor=ffffff)&nbsp;
 <!-- ![Photoshop](https://img.shields.io/badge/-Photoshop-ffffff?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=001834&textColor=ffffff)&nbsp;
 ![After effects](https://img.shields.io/badge/-AfterEffects-ffffff?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=00005b&textColor=ffffff)&nbsp; -->
 
@@ -57,9 +58,7 @@
  
 ### Studying in this moment:
   
-![Csharp](https://img.shields.io/badge/-Csharp-ffffff?style=for-the-badge&logo=csharp&logoColor=white&labelColor=178600&textColor=ffffff)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-ffffff?style=for-the-badge&logo=javascript&logoColor=0a0c10&labelColor=f1e05a&textColor=ffffff)&nbsp;
-![Java](https://img.shields.io/badge/-Java-ffffff?style=for-the-badge&logo=oracle&logoColor=0a0c10&labelColor=ec2025&textColor=ffffff)&nbsp;
  
 <!--  <hr> -->
  
