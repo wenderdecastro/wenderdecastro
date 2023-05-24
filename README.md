@@ -15,7 +15,7 @@
 
 * 📖 Learning System Development at SENAI de Informática.
 
-* 👨🏾‍🎓 IT guy since I was 11, creating minecraft mods with java and teaching programming logic in middle school (it was supposed to be a student union project about game development with Unity but the school dropped the project).
+* 👨🏾‍🎓 IT guy since I was 11, creating minecraft mods with java and teaching programming logic in middle school (it was a student union project about game development with Unity but the school dropped the project).
 
 * ✍🏾 Artist, VFX and Design enthusiast in general (UI/UX included!).
 
