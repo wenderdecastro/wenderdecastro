@@ -15,9 +15,9 @@
 
 * 📖 Learning System Development at SENAI de Informática.
 
-* 👨🏾‍🎓 IT guy since I was 11, creating minecraft mods with java and teaching programming logic in middle school (it was a student union project about game development with Unity but the school dropped the project).
+* 👨🏾‍🎓 GameDev since i was 11.
 
-* ✍🏾 Artist, VFX and Design enthusiast in general (UI/UX included!).
+* ✍🏾 Artist, VFX and GFX enjoyer in general.
 
 
 <hr>
@@ -71,10 +71,6 @@
  ![Figma](https://img.shields.io/badge/-Figma-ffffff?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117&textColor=ffffff)&nbsp;
  
 </div>
-
-<hr>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wenderdecastro&bg_color=101319&color=ffffff&line=009334&point=00c647&area=true&border_color=00c647&ring_color=00c647&area_color=004618&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
  
