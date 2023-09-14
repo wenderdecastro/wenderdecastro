@@ -15,9 +15,9 @@
 
 * 📖 Learning System Development at SENAI de Informática.
 
-* 👨🏾‍🎓 GameDev since i was 11.
+* 👨🏾‍🎓 GameDev and Digital Artist since i was 11.
 
-* ✍🏾 Artist, VFX and GFX enjoyer in general.
+* ✍🏾 Artist, VFX and GFX enthusiast.
 
 
 <hr>
