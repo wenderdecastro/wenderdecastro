@@ -11,8 +11,6 @@
 
 <hr>
 
-
-<div align="center">
 <a href = "mailto:contatowenderdecastro@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wender-de-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  
@@ -23,7 +21,7 @@
 <hr>
 
 
-<div align="center">  
+
  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wenderdecastro&show_icons=true&count_private=true&hide_border=true&ring_color=00c647&title_color=ffffff&icon_color=00c647&rank-circle_color=00c647&text_color=ffffff&bg_color=0d1117" alt="Wender de Castro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenderdecastro&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
@@ -31,7 +29,7 @@
 </div>
 
 
- <div align="center">
+
  
  <hr>
   
@@ -65,8 +63,6 @@
 <hr>
 
 <!-- <br> -->
- 
-<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=wenderdecastro&color=00c647)
  
