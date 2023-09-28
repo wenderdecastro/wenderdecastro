@@ -11,16 +11,6 @@
 
 <hr>
 
-<img src="https://i.ibb.co/CMbbKJY/gato-lascado.png" min-width="50px" max-width="100px" width="100px" align="right" alt="A silly cat">
-
-* 📖 Learning System Development at SENAI de Informática.
-
-* 👨🏾‍🎓 GameDev and Digital Artist since i was 11.
-
-* ✍🏾 Artist, VFX and GFX enthusiast.
-
-
-<hr>
 
 <div align="center">
 <a href = "mailto:contatowenderdecastro@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
