@@ -15,7 +15,7 @@
 <!-- <br></br> -->
 <hr>
 
-<div align="center">
+<div align="left">
 
  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wenderdecastro&show_icons=true&count_private=true&hide_border=true&ring_color=00c647&title_color=ffffff&icon_color=00c647&rank-circle_color=00c647&text_color=ffffff&bg_color=0d1117" alt="Wender de Castro github stats" /> 
