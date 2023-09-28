@@ -5,15 +5,12 @@
 
  -->
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=48&pause=1000&color=00c647&background=08650000&center=false&vCenter=true&width=1280&lines=Hello!+:%29;Welcome!;My+name+is+Wender.;I'm+from+São+Paulo,+Brasil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=48&pause=1000&color=00c647&background=08650000&center=false&vCenter=true&width=1280&lines=Hello!+:%29;Welcome!;I'm+from+São+Paulo,+Brasil.)](https://git.io/typing-svg)
 
 
 
 <hr>
 
-<a href = "mailto:contatowenderdecastro@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/wender-de-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- 
 </div>
  
 
@@ -54,7 +51,6 @@
  
  ![VScode](https://img.shields.io/badge/-VScode-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff&labelColor=3c99d4&textColor=ffffff)&nbsp;
  ![MSoffice](https://img.shields.io/badge/-Office-ffffff?style=for-the-badge&logo=microsoftoffice&logoColor=ffffff&labelColor=d93a08&textColor=ffffff)&nbsp;
- ![Unity](https://img.shields.io/badge/-Unity-ffffff?style=for-the-badge&logo=Unity&logoColor=ffffff&labelColor=0d1117&textColor=ffffff)&nbsp;
  ![Git](https://img.shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=F05033&textColor=ffffff)&nbsp;
  ![Figma](https://img.shields.io/badge/-Figma-ffffff?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117&textColor=ffffff)&nbsp;
  
@@ -64,6 +60,8 @@
 
 <!-- <br> -->
 
+<a href = "mailto:contatowenderdecastro@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/wender-de-castro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 ![](https://komarev.com/ghpvc/?username=wenderdecastro&color=00c647)
  
 </div>
