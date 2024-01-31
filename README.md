@@ -30,20 +30,23 @@
   
 ### Skills
  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![SQLServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-![Html](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=white&labelColor=e34c26&textColor=ffffff)&nbsp;
-![Css](https://img.shields.io/badge/-CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=white&labelColor=563d7c&textColor=ffffff)&nbsp;
-![Csharp](https://img.shields.io/badge/-Csharp-ffffff?style=for-the-badge&logo=csharp&logoColor=white&labelColor=178600&textColor=ffffff)&nbsp;
-<!-- ![Photoshop](https://img.shields.io/badge/-Photoshop-ffffff?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=001834&textColor=ffffff)&nbsp;
-![After effects](https://img.shields.io/badge/-AfterEffects-ffffff?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=00005b&textColor=ffffff)&nbsp; -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-<!--  <hr> -->
- 
-### Studying in this moment:
-  
-![Javascript](https://img.shields.io/badge/-Javascript-ffffff?style=for-the-badge&logo=javascript&logoColor=0a0c10&labelColor=f1e05a&textColor=ffffff)&nbsp;
- 
-<!--  <hr> -->
+![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+![]()
  
 ### Tools
  
