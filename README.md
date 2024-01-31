@@ -1,11 +1,9 @@
-<hr>
+
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c647&height=120&section=header"/> -->
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=28&center=false&vCenter=true&width=600&lines=Seja+Bem+Vindo+:%29;Meu+nome+é+Wender;Sou+de+São+Paulo,+Brasil)](https://git.io/typing-svg)
 
  -->
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=48&pause=1000&color=ffffff&background=08650000&center=false&vCenter=true&width=1280&lines=Hello!+:%29;Welcome!;I'm+from+São+Paulo,+Brasil.)](https://git.io/typing-svg)
 
 
 
@@ -45,16 +43,8 @@
 
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-![]()
- 
-### Tools
- 
- ![VScode](https://img.shields.io/badge/-VScode-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff&labelColor=3c99d4&textColor=ffffff)&nbsp;
- ![MSoffice](https://img.shields.io/badge/-Office-ffffff?style=for-the-badge&logo=microsoftoffice&logoColor=ffffff&labelColor=d93a08&textColor=ffffff)&nbsp;
- ![Git](https://img.shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=F05033&textColor=ffffff)&nbsp;
  ![Figma](https://img.shields.io/badge/-Figma-ffffff?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117&textColor=ffffff)&nbsp;
- 
+
 </div>
 
 <hr>
@@ -67,9 +57,6 @@
  
 </div>
 
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c647&height=120&section=footer"/> -->
-
-<hr>
 
 
 <!--
