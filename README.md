@@ -2,7 +2,7 @@
 
 - 🎓 Estudando Desenvolvimento de Sistemas no SENAISP.
 - ⚡ Treinando para ser competidor de Soluções de Software para negócios
-- 🌱 Aprendendo mais sobre React Native.
+- 🌱 Aprendendo mais sobre React Native, Xamarin e Windows Forms.
 
 
 </div>
