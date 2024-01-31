@@ -1,9 +1,3 @@
-
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c647&height=120&section=header"/> -->
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=28&center=false&vCenter=true&width=600&lines=Seja+Bem+Vindo+:%29;Meu+nome+é+Wender;Sou+de+São+Paulo,+Brasil)](https://git.io/typing-svg)
-
- -->
 ## Sobre mim
 
 - 🎓 Estudando Desenvolvimento de Sistemas no SENAISP.
@@ -12,23 +6,13 @@
 
 
 </div>
- 
-
-<!-- <br></br> -->
 
 ## 
 <div align="left">
-
- 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wenderdecastro&show_icons=true&count_private=true&hide_border=true&ring_color=00c647&title_color=ffffff&icon_color=00c647&rank-circle_color=00c647&text_color=ffffff&bg_color=0d1117" alt="Wender de Castro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenderdecastro&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
-
+##
 </div>
-
-
-
- 
-
   
 ## Skills
  
