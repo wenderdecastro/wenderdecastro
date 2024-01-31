@@ -4,7 +4,11 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=28&center=false&vCenter=true&width=600&lines=Seja+Bem+Vindo+:%29;Meu+nome+é+Wender;Sou+de+São+Paulo,+Brasil)](https://git.io/typing-svg)
 
  -->
+## Sobre mim
 
+- 🎓 Estudando Desenvolvimento de Sistemas no SENAISP.
+- ⚡ Treinando para ser competidor de Soluções de Software para negócios
+- 🌱 Aprendendo mais sobre React Native.
 
 
 </div>
@@ -26,7 +30,7 @@
  
  <hr>
   
-### Skills
+## Skills
  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
