@@ -1,7 +1,8 @@
 ## Sobre mim
 
-- 🎓 Estudando Desenvolvimento de Sistemas no SENAISP.
-- ⚡ Competidor de Soluções de Software para negócios na SPSkills.
+- 🏁 Técnico em Desenvolvimento de Sistemas formado pelo SENAISP.
+- ⚡ Ex Competidor de Soluções de Software para negócios na SPSkills.
+- 🎓 Cursando Sistemas de Informação na USP
 
 
 </div>
