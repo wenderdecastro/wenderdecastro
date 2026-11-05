@@ -3,6 +3,7 @@
 - 🏁 Técnico em Desenvolvimento de Sistemas formado pelo SENAISP.
 - ⚡ Ex Competidor de Soluções de Software para negócios na SPSkills.
 - 🎓 Cursando Sistemas de Informação na USP
+- 🧡 Engenheiro de Software no Itaú Unibanco
   
 ## Skills
  
